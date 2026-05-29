@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-I'm a Junior Full-Stack Software Engineer with 12+ years of experience in IT support and software systems — and a deep passion for computer science, problem solving, and building things that make people's lives better.
+I'm a Junior Full-Stack Software Engineer with 20+ years of experience in IT support and software systems — and a deep passion for computer science, problem solving, and building things that make people's lives better.
 
 I build full-stack web applications that connect user-facing features with backend logic. I care about the user's perspective, attention to detail, and writing code that is meaningful — not just functional.
 
