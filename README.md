@@ -1,45 +1,49 @@
-## Hi there 👋
+👋 Hi, I'm Ahmadreza (Reza)
 
-<!--
-**arpakraei/arpakraei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 👋 Hi, I'm Ahmadreza (Reza)
-
-🎓 Junior Full-Stack Software Engineer  
-🤖 Focused on AI-assisted web applications  
+🎓 Junior Full-Stack Software Engineer
+🤖 Curious about AI-assisted web applications
 📍 Aarhus, Denmark
 
 ---
 
-### 🚀 About Me
-I am a Junior Full-Stack Software Engineer with a strong IT background and hands-on experience in building web applications.
+🚀 About Me
 
-I enjoy developing user-facing features and connecting them with backend logic and AI-assisted functionality.  
-My current focus is on learning by doing through real projects, collaboration, and continuous improvement.
+I'm a Junior Full-Stack Software Engineer with 12+ years of experience in IT support and software systems — and a deep passion for computer science, problem solving, and building things that make people's lives better.
 
----
-
-### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, SQL
-- **AI / LLM:** Generative AI fundamentals, Prompt Engineering, Intro to LangChain
-- **Tools:** Git, GitHub, VS Code
+I build full-stack web applications that connect user-facing features with backend logic. I care about the user's perspective, attention to detail, and writing code that is meaningful — not just functional.
 
 ---
 
-### 📌 Featured Projects
-- **VMentor** – AI-assisted mentoring platform  
-- **Danish Learning Podcast Platform** – Language learning web application  
+🛠 Tech Stack
 
-(See repositories below 👇)
-
----
-
-### 🌱 Currently
-- Studying Full-Stack Web Development at HackYourFuture (Denmark)
-- Building small full-stack projects with AI-enabled features
+- Frontend: HTML, CSS, JavaScript, React, Next.js
+- Backend: Node.js, Express.js, Python
+- Database: SQL, SQLite3
+- AI / LLM: Generative AI, Prompt Engineering, LangChain
+- Tools: Git, GitHub, VS Code
 
 ---
 
-📫 **Connect with me:**  
-LinkedIn: https://www.linkedin.com/in/ahmad-reza-pakraei/
+📌 Featured Projects
+
+🎟 Event Startup Project — Full-stack event platform with cart, orders, authentication
+↳ Live: https://event-startup-project.vercel.app
+↳ Repo: https://github.com/arpakraei/mid-frontend-project
+
+🤖 VMentor — AI-assisted mentoring platform using LLM & LangChain
+
+🎧 Danish Learning Podcast Platform — Language learning web application
+
+---
+
+🌱 Currently
+
+- Completing Full-Stack Web Development at HackYourFuture Denmark
+- Building full-stack projects with React, Node.js, and AI-enabled features
+- Looking for a junior developer role in Denmark or internationally
+
+---
+
+📫 Connect with me
+
+🔗 LinkedIn: https://www.linkedin.com/in/ahmad-reza-pakraei/
